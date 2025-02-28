@@ -1,6 +1,7 @@
 # WordCountProgram
 
 ## Overview
+This is a multithreaded word count program. It sends data between two pipes and displays the word count of the inputted text.
 
 ## Installation Requirements
 For this project you will need to download a recent version of .NET SDK.\
